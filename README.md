@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mooresamuel aka Sam
-- 👀 I’m interested in - still figuring it out...
+- 👀 I’m interested in - AI, automation, programming in general
 - 🌱 I’m currently studying at 42 London
 - 💞️ I’m looking to collaborate on ... open to suggestions
 - 📫 How to reach me - samoore@student.42london.com 
