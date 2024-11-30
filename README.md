@@ -8,7 +8,7 @@ I'm a passionate and curious programmer currently studying at **42 London**. I'v
 
 - 🚀 **Interest Areas**: Artificial Intelligence, Automation, and Programming in general.
 - 💻 **Languages & Technologies**:  
-  - C, Python, JavaScript  
+  - C, C++, Python, JavaScript  
   - React, HTML, CSS  
 - 🌱 **Learning**: Always working on improving my skills and diving deeper into new technologies.
 - 🤝 **Collaboration**: I’m open to collaborating on exciting projects. Let’s build something great together!
@@ -26,11 +26,16 @@ I'm a passionate and curious programmer currently studying at **42 London**. I'v
 ## 🛠️ Technologies & Tools
 
 - **Languages**:  
-  - 💻 **C** | **Python** | **JavaScript** | **HTML/CSS** | **React**  
+  - 💻 **C** | **C++** | **Python** | **JavaScript** | **HTML/CSS** | **React**  
+- **Cloud & DevOps**:  
+  - 🌩️ **Google Cloud** | ☁️ **AWS** | 🖥️ **Linux** | ⚙️ **Bash** | 🛠️ **CI/CD**
 - **Tools**:  
-  - 🛠️ **Git** | **VS Code** | **Google Cloud** | **Jupyter Notebooks**  
+  - 🛠️ **Git** | **VS Code** | **Google Cloud** | **Jupyter Notebooks**
 - **Software Engineering Concepts**:  
-  - 🔄 **Algorithms** | **Data Structures** | **OOP** | **Version Control** | **CI/CD**
+  - 💾 **Databases** (SQL & NoSQL: MySQL, PostgreSQL, MongoDB, Firebase)  
+  - 🔄 **Object-Oriented Programming (OOP)** (Encapsulation, Inheritance, Polymorphism, Abstraction)  
+  - 🖥️ **Concurrency & Multithreading** (Writing concurrent programs, managing threads)
+
 
 ---
 
