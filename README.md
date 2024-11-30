@@ -49,7 +49,7 @@ I'm a passionate and curious programmer currently studying at **42 London**. I'v
 
 ## 💬 Fun Facts
 
-- 🎮 I enjoy playing video games and solving coding challenges in my free time.
+- 🎮 I enjoy learning about new technologies and solving coding challenges in my free time.
 - 🌍 I love learning about new cultures and travel whenever I get the chance.
 - 🧑‍🏫 I enjoy teaching and helping others in their coding journeys!
 
