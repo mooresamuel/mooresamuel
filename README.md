@@ -48,7 +48,7 @@ I'm a passionate and curious programmer currently studying at **42 London**. I'v
 
 ## 📈 GitHub Stats
 
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mooresamuel&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mooresamuel&show_icons=true&count_private=true&hide=prs&hide_title=false&theme=radical)
 
 ---
 
