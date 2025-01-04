@@ -2,8 +2,8 @@
 </br>
 
 <div align="center">
-  <img style="height: 50px;" align="center" src="https://github.com/user-attachments/assets/666d0c25-b26f-4758-8248-fc06fb9a5e2b"/"
-<br/><br/><br/>
+  <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/666d0c25-b26f-4758-8248-fc06fb9a5e2b"/"
+<br/><br/>
   <div>
     I'm a student at&nbsp
     <a href="https://42london.com/" style="text-decoration: none;">
@@ -12,7 +12,7 @@
     and&nbsp
     <a href="https://northcoders.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 65px; vertical-align: middle;" /></a>
-    &nbsp and very much enjoy coding
+    &nbsp and really enjoy coding
   </div>
   
 
