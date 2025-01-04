@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Sam</div>
 </br>
 <div align="center">
-  <span style="display: inline-block; vertical-align: middle;">I am currently studying computer science at
+  <span style="display: inline-block; vertical-align: middle;">I study computer science at
   <a href="https://42london.com/" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 65px; vertical-align: middle;" /></a> and data engineering at
   <a href="https://northcoders.com/" style="text-decoration: none;">
@@ -18,10 +18,16 @@
 </div>
 
 #
+<br/>
+<div align="center" style="position: relative; display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/366c0fab-e1b2-4cd4-a705-50b10d207614" 
+       style="height: 50px; position: absolute; top: -5px; left: 10px; z-index: 2;"/>
+  
+  <img src="https://github.com/user-attachments/assets/73c8fe76-85b6-4cc0-b6e3-0b4785217b19" 
+       style="height: 50px; position: absolute; z-index: 1;"/>
+</div>
 
-<p align="center" style="font-size: 54px;">
-  Let's connect
-</p>
+
 
 <div align="center">
   <a href="https://instagram.com/truetosam">
@@ -29,7 +35,7 @@
   </a>
   &nbsp;&nbsp; <!-- Adds horizontal space -->
   <a href="mailto:samalmoore@gmail.com">
-    <img src="https://github.com/user-attachments/assets/0c437c25-48fe-4796-94cc-77efebabfad1" alt="Email" style="height: 50px;"/>
+    <img src="https://github.com/user-attachments/assets/0c437c25-48fe-4796-94cc-77efebabfad1" alt="Email" style="height: 50px; text-decoration: none;"/>
   </a>
   &nbsp;&nbsp; <!-- Adds horizontal space -->
   <a href="https://www.linkedin.com">
