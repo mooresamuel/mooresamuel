@@ -1,18 +1,19 @@
-# <div align="center">👋 <img src="https://github.com/user-attachments/assets/0b228a8c-7f66-4cf7-af98-c5c59b064bf9"  style="height: 65px;" align="center"  /></div>
+
+# <div align="center">👋 <img src="https://github.com/user-attachments/assets/460b5965-17c0-49dc-897a-5cdca8e2f73f"  style="height: 65px;" align="center"  /></div>
 
 <br/>
 <div align="center">
-  <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/5c3dc63a-c711-4663-a2c1-06745c805f37"/"
-<br/><br/><br/>
+<!--   <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/5c3dc63a-c711-4663-a2c1-06745c805f37"/" -->
+<!-- <br/><br/><br/> -->
   <p dir="auto">
-    I am a student at&nbsp
+    I'm a student at&nbsp
     <a href="https://42london.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 65px;" align="center" /></a>
     and&nbsp
     <a href="https://northcoders.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 65px;" align="center" /></a>
     <br/>
-     I love coding and tackling problems which help me to learn and grow as a developer
+     I enjoy tackling coding problems which help me to learn and grow as a developer
   </p>
   
 
