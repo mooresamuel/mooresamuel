@@ -1,8 +1,8 @@
-# <div align="center">👋 Hi, I'm Sam</div>
-</br>
+# <div align="center">👋 <img src="https://github.com/user-attachments/assets/0b228a8c-7f66-4cf7-af98-c5c59b064bf9"  style="height: 65px;" align="center"  /></div>
 
+<br/>
 <div align="center">
-  <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/666d0c25-b26f-4758-8248-fc06fb9a5e2b"/"
+  <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/5c3dc63a-c711-4663-a2c1-06745c805f37"/"
 <br/><br/><br/>
   <p dir="auto">
     I am a student at&nbsp
