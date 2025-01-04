@@ -3,7 +3,7 @@
 
 <div align="center">
   <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/666d0c25-b26f-4758-8248-fc06fb9a5e2b"/"
-<br/><br/>
+<br/><br/><br/>
   <p dir="auto">
     I am a student at&nbsp
     <a href="https://42london.com/" style="text-decoration: none;">
@@ -11,7 +11,6 @@
     and&nbsp
     <a href="https://northcoders.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 65px;" align="center" /></a>
-    &nbsp
     <br/>
      I love coding and tackling problems which help me to learn and grow as a developer
   </p>
