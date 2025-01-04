@@ -1,68 +1,41 @@
-# 👋 Hi there, I'm **Sam** (aka @mooresamuel) 👨‍💻
+# <div align="center">👋 Hi, I'm Sam</div>
+</br>
+<div align="center">
+  <span style="display: inline-block; vertical-align: middle;">I am currently studying computer science at
+  <a href="https://42london.com/" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 65px; vertical-align: middle;" /></a> and data engineering at
+  <a href="https://northcoders.com/" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 65px; vertical-align: middle;" />
+  </a>
+  </span>
+</div>
 
-I'm a passionate and curious programmer currently studying at **42 London**. I've been learning to code for about a year now, diving into a variety of programming languages and frameworks. Here’s a little more about me:
+</br>
+</br>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+#
 
-## 👀 About Me
+<p align="center" style="font-size: 54px;">
+  Let's connect
+</p>
 
-- 🚀 **Interest Areas**: Artificial Intelligence, Automation, and Programming in general.
-- 💻 **Languages & Technologies**:  
-  - C, C++, Python, JavaScript  
-  - React, HTML, CSS  
-- 🌱 **Learning**: Always working on improving my skills and diving deeper into new technologies.
-- 🤝 **Collaboration**: I’m open to collaborating on exciting projects. Let’s build something great together!
-- 📚 **Currently Studying**: Computer Science at **42 London**.
----
-
-## 📬 How to Reach Me
-
-- 📧 **Email**: [samoore@student.42london.com](mailto:samoore@student.42london.com)
-- 🌐 **GitHub**: [@mooresamuel](https://github.com/mooresamuel)
-- 🌍 **LinkedIn**: [https://linkedin.com/in/samuel-moore](https://www.linkedin.com/in/samuel-moore-34a416128/)
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages**:  
-  - 💻 **C** | **C++** | **Python** | **JavaScript** | **HTML/CSS** | **React**  
-- **Cloud & DevOps**:  
-  - 🌩️ **Google Cloud** | ☁️ **AWS** | 🖥️ **Linux** | ⚙️ **Bash** | 🛠️ **CI/CD**
-- **Tools**:  
-  - 🛠️ **Git** | **VS Code** | **Google Cloud** | **Jupyter Notebooks**
-- **Software Engineering Concepts**:  
-  - 💾 **Databases** (SQL & NoSQL: MySQL, PostgreSQL, MongoDB, Firebase)  
-  - 🔄 **Object-Oriented Programming (OOP)** (Encapsulation, Inheritance, Polymorphism, Abstraction)  
-  - 🖥️ **Concurrency & Multithreading** (Writing concurrent programs, managing threads)
+<div align="center">
+  <a href="https://instagram.com/truetosam">
+    <img src="https://github.com/user-attachments/assets/27e0a178-69d0-4588-b4a4-31b6a4e5bae3" alt="Instagram" style="height: 45px;"/>
+  </a>
+  &nbsp;&nbsp; <!-- Adds horizontal space -->
+  <a href="mailto:samalmoore@gmail.com">
+    <img src="https://github.com/user-attachments/assets/0c437c25-48fe-4796-94cc-77efebabfad1" alt="Email" style="height: 50px;"/>
+  </a>
+  &nbsp;&nbsp; <!-- Adds horizontal space -->
+  <a href="https://www.linkedin.com">
+    <img src="https://github.com/user-attachments/assets/7aed64e2-02f4-4de4-a826-64775d1cf9e7" alt="LinkedIn" style="height: 44px;" />
+  </a>
+</div>
 
 
----
 
-## 🌱 Current Projects
-
-- **AI & Automation**: Integrating AI into a program that helps adults with reading difficulty develop their literacy skills.
-- **Web Development**: Building full-stack applications using React, Node.js, and exploring modern web technologies.
-  
----
-
-## 📈 GitHub Stats
-
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mooresamuel&show_icons=true&count_private=true&hide=prs&hide_title=false&theme=radical)
-
----
-
-## 💬 Fun Facts
-
-- 🎮 I enjoy learning about new technologies and solving coding challenges in my free time.
-- 🌍 I love learning about new cultures and travel whenever I get the chance.
-- 🧑‍🏫 I enjoy teaching and helping others in their coding journeys!
-
----
-
-Feel free to reach out if you’d like to chat or collaborate on something exciting. Let’s build the future together! 🚀
-
-<!---
-mooresamuel/mooresamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
