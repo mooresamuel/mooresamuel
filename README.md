@@ -5,19 +5,10 @@
 <div align="center">
 <!--   <img style="height: 45px;" align="center" src="https://github.com/user-attachments/assets/5c3dc63a-c711-4663-a2c1-06745c805f37"/" -->
 <!-- <br/><br/><br/> -->
-  <p>
-    I'm a student at&nbsp
+<img src="https://github.com/user-attachments/assets/d8f301d3-0f24-414d-af00-1864da49e7dd"  style="height: 45px;" align="center"  />
     <a href="https://42london.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 100px;" align="center" /></a>
-    and&nbsp
-<!--     <a href="https://42london.com/" style="text-decoration: none;">
-      <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 100px;" align="center" /></a>
-    and&nbsp -->
-    <a href="https://northcoders.com/" style="text-decoration: none;">
-      <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 100px;" align="center" /></a>
-    <br/>
-     
-  </p>
+
   
 
 </div>
