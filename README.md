@@ -24,8 +24,8 @@
 
 </br>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&ring_color=1aafd0&include_all_commits=false&count_private=true&disable_animations=false&border_color=fc636b&title_color=ffb900&text_color=99eeaa&icon_color=6a67ce&bg_color=00000000&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=5&border_color=fc636b&title_color=ffb900&text_color=99eeaa&icon_color=6a67ce&bg_color=00000000&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&ring_color=1aafd0&include_all_commits=false&count_private=true&disable_animations=false&border_color=ffb900&&title_color=fc636b&text_color=6a67ce&icon_color=99eeaa&bg_color=00000000&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=5&border_color=ffb900&&title_color=fc636b&text_color=6a67ce&icon_color=99eeaa&bg_color=00000000&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br/>
