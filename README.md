@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+<br/>
 <br/>
 <div align="center" style="position: relative; display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/user-attachments/assets/366c0fab-e1b2-4cd4-a705-50b10d207614" 
@@ -36,18 +36,28 @@
   <img src="https://github.com/user-attachments/assets/73c8fe76-85b6-4cc0-b6e3-0b4785217b19" 
        style="height: 40px;"/>
 </div>
-
-
-
 <div align="center">
   <a href="https://instagram.com/truetosam">
-    <img src="https://github.com/user-attachments/assets/27e0a178-69d0-4588-b4a4-31b6a4e5bae3" alt="Instagram" align="center" style="height: 45px;"/></a>
+    <img src="https://github.com/user-attachments/assets/e947a192-0faa-4729-8483-b6e40c598628" alt="Instagram" align="top" style="height: 80px;"/></a>
    &nbsp;
   <a href="https://www.linkedin.com">
-    <img src="https://github.com/user-attachments/assets/7aed64e2-02f4-4de4-a826-64775d1cf9e7" alt="LinkedIn" align="center" style="height: 44px;" /></a>&nbsp;&nbsp; 
+    <img src="https://github.com/user-attachments/assets/20fba5fb-65ce-4bd6-9247-688894c89b1e" alt="LinkedIn" align="top" style="height: 80px;" /></a>&nbsp;&nbsp; 
   <a href="mailto:samalmoore@gmail.com">
-    <img src="https://github.com/user-attachments/assets/0c437c25-48fe-4796-94cc-77efebabfad1" alt="Email" align="center" style="height: 53px; text-decoration: none;"/></a>
- 
+    <img src="https://github.com/user-attachments/assets/0b3d6bba-729a-4e4e-9626-540f7b22a19b" alt="Email" align="top" style="height: 80px;"/></a>
+  &nbsp;
+<!--   <a href="https://instagram.com/truetosam">
+    <img src="https://github.com/user-attachments/assets/231cf5a5-579b-4d36-8df1-13e4e33f718f" alt="Instagram" align="justify" style="height: 50px;"/></a>
+   &nbsp;
+  <a href="https://www.linkedin.com">
+    <img src="https://github.com/user-attachments/assets/97153d69-337d-47c7-baaa-9363fc492401" alt="LinkedIn" align="justify" style="height: 50px;" /></a>&nbsp;&nbsp; 
+  <a href="mailto:samalmoore@gmail.com">
+    <img src="https://github.com/user-attachments/assets/77aae782-4a3d-443d-9d8d-1374c8e1756d" alt="Email" align="justify" style="height: 45px;"/></a>
+  &nbsp; -->
+
+   
+
+   
+
 </div>
 
 #
