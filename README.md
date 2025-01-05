@@ -8,26 +8,26 @@
   <p>
     I'm a student at&nbsp
     <a href="https://42london.com/" style="text-decoration: none;">
-      <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 65px;" align="center" /></a>
+      <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 100px;" align="center" /></a>
     and&nbsp
+<!--     <a href="https://42london.com/" style="text-decoration: none;">
+      <img src="https://github.com/user-attachments/assets/6127cc85-ffdf-40af-af1f-65654bff7afc" style="width: 100px;" align="center" /></a>
+    and&nbsp -->
     <a href="https://northcoders.com/" style="text-decoration: none;">
-      <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 65px;" align="center" /></a>
+      <img src="https://github.com/user-attachments/assets/88922e99-8218-4de6-af9c-730e267736c8" style="width: 100px;" align="center" /></a>
     <br/>
-     I enjoy tackling coding problems, learning new skills, and growing as a developer
+     
   </p>
   
 
 </div>
 
-
-</br>
 </br>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=theme=transparent&title_color=cccc00&text_color=00cc00&icon_color=0000dd&bg_color=20050522&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=theme=transparent&title_color=cccc00&text_color=00cc00&icon_color=0000dd&bg_color=20050522&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br/>
 <br/>
 <div align="center" style="position: relative; display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/user-attachments/assets/366c0fab-e1b2-4cd4-a705-50b10d207614" 
