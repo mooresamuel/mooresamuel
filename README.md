@@ -8,22 +8,24 @@
       <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 100px;" align="center" /></a>
 </div>
 
+
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&ring_color=5d98e1&include_all_commits=false&count_private=true&disable_animations=false&border_color=ffb900&&title_color=fffff1&text_color=5dc9d9&icon_color=ffffe9&bg_color=00000000&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=5&border_color=ffb900&&title_color=ff434b&text_color=fc636b&icon_color=99eeaa&bg_color=00000000&hide_border=true" height="150" alt="languages graph"  />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=5&border_color=ffb900&&title_color=7c81f1&text_color=ff434b&icon_color=99eeaa&bg_color=00000000&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="center" style="position: relative; display: flex; justify-content: center; align-items: center;">
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/366c0fab-e1b2-4cd4-a705-50b10d207614" 
        style="height: 40px;"/>
-  
+
   <img src="https://github.com/user-attachments/assets/f70c711f-53ff-4d5b-b2f5-e770633c7648" 
        style="height: 40px;"/>
 </div>
 
+
 <div align="center">
-
-
   <a href="https://www.linkedin.com">
     <img src="https://github.com/user-attachments/assets/9b01c2c5-120c-4188-94d7-0f0089cdf38f" alt="LinkedIn" style="height: 70px;" /></a>
     &nbsp; 
