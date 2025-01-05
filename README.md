@@ -1,5 +1,5 @@
 
-# <div align="center">👋 <img src="https://github.com/user-attachments/assets/5a9e4d90-5a43-47a1-8e90-096eda697474"  style="height: 65px;" align="center"  /></div>
+# <div align="center">👋 <img src="https://github.com/user-attachments/assets/c5faa8e2-1d81-4b4e-8c85-fa5a55d2fa76"  style="height: 65px;" align="center"  /></div>
 
 <br/>
 <div align="center">
@@ -24,8 +24,8 @@
 
 </br>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=theme=transparent&title_color=cc2222&text_color=dddd00&icon_color=0022cc&bg_color=00000000&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=theme=transparent&title_color=cc2222&text_color=dddd00&icon_color=0022cc&bg_color=00000000&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooresamuel&hide_title=false&hide_rank=false&show_icons=true&ring_color=1aafd0&include_all_commits=false&count_private=true&disable_animations=false&border_color=fc636b&title_color=ffb900&text_color=99eeaa&icon_color=6a67ce&bg_color=00000000&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mooresamuel&locale=en&hide_title=false&card_width=320&layout=compact&langs_count=5&border_color=fc636b&title_color=ffb900&text_color=99eeaa&icon_color=6a67ce&bg_color=00000000&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br/>
@@ -60,12 +60,12 @@
    &nbsp; -->
 
   <a href="https://www.linkedin.com">
-    <img src="https://github.com/user-attachments/assets/9b01c2c5-120c-4188-94d7-0f0089cdf38f" alt="LinkedIn" style="height: 80px;" /></a>&nbsp;&nbsp; 
+    <img src="https://github.com/user-attachments/assets/9b01c2c5-120c-4188-94d7-0f0089cdf38f" alt="LinkedIn" style="height: 70px;" /></a>&nbsp;&nbsp; 
   <a href="mailto:samalmoore@gmail.com">
-    <img src="https://github.com/user-attachments/assets/9e1368a0-2e76-4563-bd91-dee556b22486" alt="Email" style="height: 80px;"/></a>
+    <img src="https://github.com/user-attachments/assets/9e1368a0-2e76-4563-bd91-dee556b22486" alt="Email" style="height: 70px;"/></a>
   &nbsp;
   <a href="https://instagram.com/truetosam">
-    <img src="https://github.com/user-attachments/assets/12b5cd49-dc69-4b7a-8b35-b29775a33648" alt="Instagram" style="height: 80px;"/></a>
+    <img src="https://github.com/user-attachments/assets/12b5cd49-dc69-4b7a-8b35-b29775a33648" alt="Instagram" style="height: 70px;"/></a>
    &nbsp;
 <!--    <a href="https://iconscout.com/icons/linkedin" class="text-underline font-size-sm" target="_blank">Linkedin</a> by <a href="https://iconscout.com/contributors/flat-icons" class="text-underline font-size-sm">Flat-icons.com</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a> -->
    
