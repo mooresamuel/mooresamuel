@@ -3,9 +3,9 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c988c873-6fdf-4722-8918-7cf0e7640db2"  style="height: 145px;" align="center"  />
+<img src="https://github.com/user-attachments/assets/c988c873-6fdf-4722-8918-7cf0e7640db2"  style="height: 165px;" align="center"  />
     <a href="https://42london.com/" style="text-decoration: none;">
-      <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 100px;" align="center" /></a>
+      <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 130px;" align="center" /></a>
 </div>
 
 
@@ -17,11 +17,11 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/366c0fab-e1b2-4cd4-a705-50b10d207614" 
-       style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/7e36eb0d-7fad-4bb1-8b1f-dcf823d39ab9" 
+       style="height: 70px;"/>
 
-  <img src="https://github.com/user-attachments/assets/f70c711f-53ff-4d5b-b2f5-e770633c7648" 
-       style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/b6bde276-3d4e-4107-bb39-c3b5eab95733" 
+       style="height: 70px;"/>
 </div>
 
 
