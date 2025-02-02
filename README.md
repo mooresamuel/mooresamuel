@@ -3,6 +3,7 @@
 
 <br/>
 <div align="center">
+<img src="https://github.com/user-attachments/assets/c988c873-6fdf-4722-8918-7cf0e7640db2"  style="height: 145px;" align="center"  />
 <img src="https://github.com/user-attachments/assets/d8f301d3-0f24-414d-af00-1864da49e7dd"  style="height: 45px;" align="center"  />
     <a href="https://42london.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="width: 100px;" align="center" /></a>
