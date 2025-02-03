@@ -1,6 +1,6 @@
-# <div align="center"><img src="https://github.com/user-attachments/assets/f8e29bb1-c20c-499e-a463-d8e373bc5343"  style="height: 165px;" align="center"  /></div>
+# <div align="center"><img src="https://github.com/user-attachments/assets/969249f2-420c-4a92-8bdd-482ad76c6dca"  style="height: 100px;" align="center"  /></div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c988c873-6fdf-4722-8918-7cf0e7640db2"  style="height: 165px;" align="center"  />
+<img src="https://github.com/user-attachments/assets/6892ff48-6d83-4fa6-ba7e-8b195b307b32"  style="height: 100px;" align="center"  />
     <a href="https://42london.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="height: 160px;" align="center" /></a>
 </div>
@@ -9,10 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4moore&layout=donut&locale=en&hide_title=false&card_width=320&langs_count=5&border_color=ffb900&&title_color=7c81f1&text_color=ff8b90&icon_color=99eeaa&bg_color=00000000&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7e36eb0d-7fad-4bb1-8b1f-dcf823d39ab9" style="height: 160px;"/>
+  <img src="https://github.com/user-attachments/assets/7626ebf1-ab75-4a55-898d-2c0f0328fac1" style="height: 60px;"/>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b6bde276-3d4e-4107-bb39-c3b5eab95733" style="height: 160px;"/>
+  <img src="https://github.com/user-attachments/assets/3cf407f8-8efc-4286-a23e-1de9c88744a6" style="height: 60px;"/>
 </div>
 <div align="center">
   <a href="https://instagram.com/truetosam">
