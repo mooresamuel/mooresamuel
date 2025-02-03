@@ -1,20 +1,20 @@
-# <div align="center"><img src="https://github.com/user-attachments/assets/969249f2-420c-4a92-8bdd-482ad76c6dca"  style="height: 70px;" align="center"  /></div>
+# <div align="center"><img src="https://github.com/user-attachments/assets/31d73d8c-0fad-40fc-894b-a4db76024872"  style="height: 70px;" align="center"  /></div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6892ff48-6d83-4fa6-ba7e-8b195b307b32"  style="height: 70px;" align="center"  />
+<img src="https://github.com/user-attachments/assets/366449ec-4bd8-4e64-897b-75292a77be0a"  style="height: 70px;" align="center"  />
     <a href="https://42london.com/" style="text-decoration: none;">
       <img src="https://github.com/user-attachments/assets/6f7733da-5e63-40bb-95be-e6ab3498d495" style="height: 160px;" align="center" /></a>
 </div>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=s4moore&hide_title=false&hide_rank=false&show_icons=true&ring_color=5d98e1&include_all_commits=false&count_private=true&disable_animations=false&border_color=ffb900&&title_color=fffff1&text_color=f5a446&icon_color=ffffe9&bg_color=00000000&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=s4moore&hide_title=false&hide_rank=false&show_icons=true&ring_color=5d98e1&include_all_commits=false&count_private=true&disable_animations=false&border_color=ffb900&&title_color=f5a446&text_color=e9d28c&icon_color=f5a446&bg_color=00000000&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4moore&layout=donut&locale=en&hide_title=false&card_width=320&langs_count=5&border_color=ffb900&&title_color=7c81f1&text_color=ff8b90&icon_color=99eeaa&bg_color=00000000&hide_border=true" height="150" alt="languages graph"  />
 </div>
 </br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7626ebf1-ab75-4a55-898d-2c0f0328fac1" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/e459f439-6d94-49ca-a0f5-231e15de990e" style="height: 40px;"/>
 </div>
 </br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3cf407f8-8efc-4286-a23e-1de9c88744a6" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/f37a70e5-0473-4947-a23a-48ff9cc24150" style="height: 40px;"/>
 </div>
 </br>
 <div align="center">
